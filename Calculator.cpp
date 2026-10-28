@@ -1,9 +1,9 @@
 
 #include <iostream>
 using namespace std;
-int add(int num1, int num2)
+int add(int num, int num1)
 {
-    return num1 + num2;
+    return num + num1;
 }
 int main()
 {
