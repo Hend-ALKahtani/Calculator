@@ -21,8 +21,5 @@ int main()
   std::cout << "Hello World!\n";
   cout << "hi hend";
 
-   cout << "hi";
-   cout << "hi";
-  cout << "may allah help me";
 }
 
