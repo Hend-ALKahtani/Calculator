@@ -20,6 +20,6 @@ int main()
    cout << "5-2 = " << Subtaction(5, 3);
   std::cout << "Hello World!\n";
   cout << "hi hend";
-
+  cout << "may allah help me";
 }
 
