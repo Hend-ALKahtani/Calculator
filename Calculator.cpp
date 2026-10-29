@@ -14,5 +14,6 @@ int main()
     cout << "1+2 = " << add(1, 2);
     cout << "4/2 = " << Divid(4 , 2);
     std::cout << "Hello World!\n";
+    cout << "hi";
 }
 
