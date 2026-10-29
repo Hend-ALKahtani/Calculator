@@ -21,5 +21,6 @@ int main()
   std::cout << "Hello World!\n";
 
    cout << "hi";
+   cout << "hi";
 }
 
