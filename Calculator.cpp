@@ -22,5 +22,7 @@ int main()
   cout << "hi hind";
   cout << "hi hi ";
   cout << "bb;";
+  cout << "hi hend";
+
 }
 
